@@ -1,0 +1,15 @@
+WILK I OWCE
+Jest to radycyjna gra o typie warcabowym. Jeden z graczy dysponuje czterema
+„owcami”, a drugi dysponuje jednym „wilkiem”. 
+Pozycja początkowa:
+Owce obsadzają pierwszy rząd szachownicy, a wilk staje na jednym dowolnym 
+wybranym polu krańcowego rzędu szachownicy.
+Cel gry:
+Celem gracza - wilka jest przedostanie się na pierwszy rząd pól szachownicy.
+Gracz dysponujący owcami wygrywa, gdy uda mu się zablokować wilka tak, 
+żeby nie mógł on wykonać posunięcia.
+Zasady:
+Grę rozpoczyna gracz grający wilkiem. W jednym ruchu może przejść o jedno 
+pole po przekątnej w dowolną stronę.
+Pionki gracza grającego owcami w kolejnych posunięciach przechodzą także o 
+jedno pole po przekątnej, lecz tylko do przodu.
